@@ -1,8 +1,8 @@
 # webfonts-joomla-plugin
-Content plugin for joomla for adding webfont icons from FontAwesome and Glyphicons easily, without fearing TinyMCE stripping the icon syntax
+Simple content plugin for joomla for adding webfont icons from FontAwesome and Glyphicons easily, without fearing TinyMCE stripping the icon syntax
 
 ## Requires
-FontAwesome or Glyphicons being loaded already. Many templates do this already.
+FontAwesome or Glyphicons being loaded already.
 
 ## Usage
 Just download the package as zip, install it (activate the plugin) and add this in your content 

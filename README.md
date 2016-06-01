@@ -5,7 +5,7 @@ Content plugin for joomla for adding webfont icons from FontAwesome and Glyphico
 FontAwesome or Glyphicons being loaded already. Many templates do this already.
 
 ## Usage
-Just download the package, install it and add this in your content 
+Just download the package as zip, install it (activate the plugin) and add this in your content 
 
 ```
 {fa-iconname}
